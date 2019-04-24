@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Eatone</string>
+    <string name="title_activity_learning">Learning</string>
+    <string name="title_activity_eat_detail">EatDetail</string>
+</resources>
